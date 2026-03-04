@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "89.252.181.30",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "inveon-stage",
+            "database": "inveon-stage",
+            "username": "postgres",
+            "password": "C8TEVpsMdo6P2b8ZoB7AMxsDsYK3rr4bPzn84iMgeVXfP1nXg9Gic32T1dFqOZDK"
+        }
+    ]
+}
